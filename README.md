@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/jabberwock.jpg" height="200"/>
+  <img src="docs/RGB.svg" height="200"/>
 </div>
 <h1 align="center" style="margin-top: -10px"> Colorbase </h1>
 <p align="center" style="width: 100;">
