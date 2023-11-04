@@ -10,7 +10,7 @@ pygame.display.set_caption('Color Calibrator')
 monitor = (pygame.display.Info().current_w, pygame.display.Info().current_h)
 clock = pygame.time.Clock()
 void = pygame.display.set_mode(monitor, pygame.RESIZABLE)
-colors = ['white', 'blue', 'green', 'red', 'yellow', 'purple', 'black']
+colors = ['white', 'blue', 'green', 'red', 'yellow', 'cyan', 'magenta', 'gray', 'black']
 index = 0
 
 

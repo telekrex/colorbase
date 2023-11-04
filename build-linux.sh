@@ -2,5 +2,5 @@
 echo "locating source"
 cd source
 echo "compiling..."
-python3 -m PyInstaller --onefile c.py
+python3 -m PyInstaller --onefile colorbase.py
 echo "done"
