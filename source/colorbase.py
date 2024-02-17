@@ -4,9 +4,9 @@ import pygame
 import sys
 import os
 os.environ['SDL_VIDEO_CENTERED'] = '1'
-tps = 30
+tps = 60
 pygame.init()
-pygame.display.set_caption('Color Calibrator')
+pygame.display.set_caption('Colorbase')
 monitor = (pygame.display.Info().current_w, pygame.display.Info().current_h)
 clock = pygame.time.Clock()
 void = pygame.display.set_mode(monitor, pygame.RESIZABLE)
