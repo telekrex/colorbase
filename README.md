@@ -15,4 +15,4 @@ A few options:
 > On Linux, you may have to apply permissions to the executable file.
 
 ## How to Use
-Simply run the script or executable. It will display colors in fullscreen, starting with white. Press ENTER to cycle through colors, press ESC to quit.
+Simply run the script or executable. It will display colors in fullscreen, starting with white. Press SPACE to toggle fullscreen, press ENTER to cycle through colors, press ESC to quit.
