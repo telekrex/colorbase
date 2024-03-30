@@ -1,1 +1,1 @@
-python -m PyInstaller --onefile Colorbase.py -noconsole
+python -m PyInstaller --onefile --noconsole Colorbase.py
