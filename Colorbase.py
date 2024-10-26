@@ -32,6 +32,10 @@ while r:
     clock.tick(tps)
     for event in pygame.event.get():
         # checking for input events
+        if event.type == pygame.QUIT:
+                # on window close, exit application
+                r = False
+                sys.exit()
         if event.type == pygame.KEYDOWN:
             if event.key == pygame.K_SPACE:
                 # on SPACE, toggle fullscreen/

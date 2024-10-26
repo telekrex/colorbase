@@ -8,11 +8,8 @@
 
 ## Installation
 A few options:
-- Visit https://github.com/telekrex/colorbase/releases for executable downloads. Once downloaded, the executable (file) can be run from anywhere.
-- Or clone repository, install `requirements.txt`, and run the build script for the platform you're using to compile it yourself.
-- Or you can run `Colorbase.py` from a terminal, provided you have installed `requirements.txt`.
-
-> On Linux, you may have to apply permissions to the executable file.
+- Visit https://github.com/telekrex/colorbase/releases for executable Windows downloads.
+- For Linux, clone the repository https://github.com/telekrex/colorbase and install `requirements.txt`. Then you can either run `python Colorbase.py`, or use `build-linux.sh` to compile a binary for yourself.
 
 ## How to Use
-Simply run the script or executable. It will display colors in fullscreen, starting with white. Press SPACE to toggle fullscreen, press ENTER to cycle through colors, press ESC to quit.
+Simply run the script or executable. It will display colors in fullscreen, starting with white. Press SPACE to toggle fullscreen, press ENTER to cycle through colors, press ESC or close window to quit.
