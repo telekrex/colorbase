@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
-
-#######################################
-# Colorbase ~ A display checker tool :)
-#######################################
+# Written by telekrex
+# under GPL-3.0 license
 
 import pygame, sys, os
 os.environ['SDL_VIDEO_CENTERED'] = '1'
