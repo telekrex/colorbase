@@ -13,3 +13,6 @@ A few options:
 
 ## How to Use
 Simply run the script or executable. It will display colors in fullscreen, starting with white. Press SPACE to toggle fullscreen, press ENTER to cycle through colors, press ESC or close window to quit.
+
+## Credits
+Written by telekrex under GPL 3.0 license
