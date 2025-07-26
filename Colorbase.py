@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-# Written by telekrex
-# under GPL-3.0 license
+# Colorbase | Written by telekrex | Public domain
 
 import pygame, sys, os
 os.environ['SDL_VIDEO_CENTERED'] = '1'
